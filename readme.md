@@ -1,9 +1,9 @@
-#### NodeJs + koa2 + sequelize-auto + sequelize 
-
+#### NodeJs + koa2 + sequelize-auto + sequelize
+#### clone 即可使用的Node + koa2 架构 
 #### 运行方式：
 
 ```c
-yarn install
+npm install
 
 npm run auto             //生成模型
 
